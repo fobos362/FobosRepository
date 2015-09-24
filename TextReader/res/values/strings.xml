@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TextReader</string>
+    
+    <string name="bez_zagolovka">Без заголовка (^_^)</string>
+    <string name="bez_teksta">Без текста (^_^)</string>
+    <string name="sms_activity_not_found">Сервис смс сообщений не найден (0_0)</string>
+    <string name="send_emal">Зато вы всегда можете отослать письмо ;)</string>
+    <string name="email_activity_not_found">Сервис почты не найден :(</string>
+    <string name="send_sms">Зато вы всегда можете отослать милую смску ;)</string>
+    <string name="about_text">Ты запускаешься впервые, моё детище)</string> 
+    
+    <string-array name="screen_array">
+        <item>Отослать в смс</item>
+        <item>Отослать по почте</item>
+    
+    </string-array>
+    
+    
+    
+</resources>
